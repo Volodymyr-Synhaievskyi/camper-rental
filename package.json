@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://volodymyr-synhaievskyi.github.io/Camper-rent/",
+  "homepage": "https://volodymyr-synhaievskyi.github.io/camper-rental/",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@reduxjs/toolkit": "^2.2.5",
